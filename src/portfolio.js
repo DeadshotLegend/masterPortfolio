@@ -7,7 +7,7 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Shivansh Goel's Portfolio",
+  title: "Shivansh's Portfolio",
   description:
     "A computer science student who likes to work on computer science projects. I want to make a difference in the world and want to leave it in a better shape.",
   og: {
