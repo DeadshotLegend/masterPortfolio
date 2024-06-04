@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A computer science student who likes to work on computer science projects. I want to make a difference in the world and want to leave it in a better shape.",
   resumeLink:
-    "https://github.com/DeadshotLegend/masterPortfolio/blob/main/Resume.pdf",
+    "Resume.pdf",
   portfolio_repository: "https://github.com/DeadshotLegend/masterPortfolio",
   githubProfile: "https://github.com/DeadshotLegend",
 };
@@ -65,10 +65,10 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Create stand-alone Spring applications",
-        "⚡ Embed Tomcat, Jetty or Undertow directly (no need to deploy WAR files",
-        "⚡ Create HTML5 and JavaScript fron ends",
-        "⚡ Use ThymeLeaf templates for rich front ends.",
-        "⚡ Provide production-ready features such as metrics, health checks and externalized configuration",
+        "⚡ RESTful Web Services: Building and consuming RESTful APIs using Spring MVC and Spring Boot",
+        "⚡ Create HTML5 and JavaScript frontends",
+        "⚡ Thymeleaf: Creating dynamic web pages using the Thymeleaf templating engine",
+        "⚡ Spring Data JPA: Simplifying data access with JPA repositories",
       ],
       softwareSkills: [
         {
@@ -129,7 +129,7 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Create feature rich applications in Python",
-        "⚡ Use Flask microframework for fast web development",
+        "⚡ Use Flask microframew  ork for fast web development",
         "⚡ Use Werkzeug web application libraries",
         "⚡ Use Jinja web templating engine",
         "⚡ Create HTML5 and JavaScript fronends",
