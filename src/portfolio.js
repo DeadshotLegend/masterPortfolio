@@ -24,8 +24,7 @@ const greeting = {
   nickname: "Deadshot Legend",
   subTitle:
     "A computer science student who likes to work on computer science projects. I want to make a difference in the world and want to leave it in a better shape.",
-  resumeLink:
-    "Resume.pdf",
+  resumeLink: "Resume.pdf",
   portfolio_repository: "https://github.com/DeadshotLegend/masterPortfolio",
   githubProfile: "https://github.com/DeadshotLegend",
 };
@@ -55,7 +54,7 @@ const socialMediaLinks = [
     link: "mailto:shivanshggamer@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
-  }
+  },
 ];
 
 const skills = {
@@ -239,14 +238,12 @@ const degrees = {
         "⚡ Apart from this, I have done courses on Android Programming and Full Stack Development.",
       ],
       website_link: "https://delnorte.powayusd.com/",
-    }
+    },
   ],
 };
 
 const certifications = {
-  certifications: [
-    
-  ],
+  certifications: [],
 };
 
 // Experience Page
@@ -300,8 +297,7 @@ const experience = {
           logo_path: "SDFFLogo.webp",
           duration: "July 2023 - Sept 2023",
           location: "San Diego, CA, USA",
-          description:
-            "Worked in adult digital literacy programs.",
+          description: "Worked in adult digital literacy programs.",
           color: "#4285F4",
         },
       ],
@@ -324,9 +320,7 @@ const publicationsHeader = {
 };
 
 const publications = {
-  data: [
-    
-  ],
+  data: [],
 };
 
 // Contact Page
@@ -341,7 +335,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "My life journey is just getting interesting and I am documenting it all here.",
-    link: "https://blogs.shivanshggamer.com/",
+    link: "https://stgblog9.wordpress.com/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
