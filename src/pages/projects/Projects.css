@@ -47,6 +47,10 @@
   margin-bottom: 10px;
 }
 
+.projects-list {
+  text-align: left !important;
+}
+
 .projects-header-detail-text {
   font-size: 20px;
   line-height: 30px;

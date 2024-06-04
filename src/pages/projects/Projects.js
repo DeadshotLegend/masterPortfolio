@@ -53,6 +53,20 @@ class Projects extends Component {
                   ></source>
                   Your browser does not support the video tag.
                 </video>
+                <div className="projects-list">
+                <p>
+                <ul >
+                <li>The Chat API Assistant allows users to interact with an AI-powered chatbot by following a structured process.</li>
+                <li>Users rst create an Assistant, representing the entity that responds to messages.</li>
+                <li>Conversations are organized into Threads, with one Thread per user initiated upon conversation start.</li>
+                <li>Messages, containing text and optionally les, are added to Threads, providing the input for the Assistant.</li>
+                <li>The Assistant runs asynchronously, processing messages and appending responses to Threads. Users can check the status of runs and
+                retrieve the Assistant's responses to display in the frontend UI.</li>
+                <li>The backend of the Chat API Assistant is built using a SpringBoot Rest Controller, which communicates with the AI engine to
+retrieve responses to user queries. Additionally, it persists chat history in a database using JPA, storing messages, responses,
+timestamps, and user identiers for future reference and analysis</li>
+              </ul>
+                </p></div>
               </div>
             </div>
           </Fade>
