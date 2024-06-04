@@ -44,7 +44,12 @@ class Contact extends Component {
                   {ContactData["description"]}
                 </p>
                 <SocialMedia theme={theme} />
-                <h2>Resume</h2>
+                <h2>
+                  <a target="_blank" href={require(`../../assests/Resume.pdf`)}>
+                    Resume
+                  </a>
+                </h2>
+
                 <embed
                   src={require(`../../assests/Resume.pdf`)}
                   width="700"
