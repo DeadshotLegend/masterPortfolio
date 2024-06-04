@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Shivansh Goel Portfolio",
     type: "website",
-    url: "https://deadshotlegend.github.io/shivansh/",
+    url: "https://deadshotlegend.github.io/",
   },
 };
 
@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A computer science student who likes to work on computer science projects. I want to make a difference in the world and want to leave it in a better shape.",
   resumeLink:
-    "https://github.com/DeadshotLegend/masterPortfolio/resume.pdf",
+    "https://github.com/DeadshotLegend/masterPortfolio/blob/main/Resume.pdf",
   portfolio_repository: "https://github.com/DeadshotLegend/masterPortfolio",
   githubProfile: "https://github.com/DeadshotLegend",
 };
@@ -333,7 +333,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "shivansh.png",
     description:
       "I am available on email. I will reply within 1 day. I can help you with SpringBoot, Web Site Development, Full Life Cycle Application Development, Mobile App Development.",
   },
