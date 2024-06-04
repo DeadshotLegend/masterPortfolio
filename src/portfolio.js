@@ -40,13 +40,13 @@ const socialMediaLinks = [
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/shivanshgoel",
+    link: "https://www.linkedin.com/in/shivanshgoel/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
   {
     name: "YouTube",
-    link: "https://youtube.com/c/shivanshggamer",
+    link: "https://www.youtube.com/channel/UCa7i-_2bi9miaTKUjSDFORw",
     fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
     backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
   },
