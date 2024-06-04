@@ -45,6 +45,14 @@ class Projects extends Component {
                 >
                   {projectsHeader["description"]}
                 </p>
+                <h2>Chat Bot AI Video</h2>
+                <video width="640" height="480" controls autoplay>
+                  <source
+                    src={require(`../../assests/chatbot_ai_video.mp4`)}
+                    type="video/mp4"
+                  ></source>
+                  Your browser does not support the video tag.
+                </video>
               </div>
             </div>
           </Fade>
