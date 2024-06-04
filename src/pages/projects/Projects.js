@@ -67,6 +67,22 @@ retrieve responses to user queries. Additionally, it persists chat history in a 
 timestamps, and user identiers for future reference and analysis</li>
               </ul>
                 </p></div>
+
+                <h2>Snake Game Video</h2>
+                <video width="640" height="480" controls autoplay>
+                  <source
+                    src={require(`../../assests/SnakeGame.mp4`)}
+                    type="video/mp4"
+                  ></source>
+                  Your browser does not support the video tag.
+                </video>
+                <div className="projects-list">
+                <p>
+                <ul >
+                <li>.</li>
+                
+              </ul>
+                </p></div>
               </div>
             </div>
           </Fade>
