@@ -45,9 +45,9 @@ class Contact extends Component {
                 </p>
                 <SocialMedia theme={theme} />
                 <h2>
-                  <a target="_blank" href={require(`../../assests/Resume.pdf`)}>
-                    Resume
-                  </a>
+                    Resume &nbsp;
+                    <a target="_blank" href={require(`../../assests/Resume.pdf`)} title="Download My Resume">
+                    <i class="fa fa-download" aria-hidden="true"></i></a>
                 </h2>
 
                 <embed

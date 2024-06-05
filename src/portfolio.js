@@ -68,6 +68,8 @@ const skills = {
         "⚡ Create HTML5 and JavaScript frontends",
         "⚡ Thymeleaf: Creating dynamic web pages using the Thymeleaf templating engine",
         "⚡ Spring Data JPA: Simplifying data access with JPA repositories",
+        "⚡ Used Agile methdologgy to manage project lifecycle.",
+        "⚡ Teamwork - Worked as a part of a team to manage all phases of software development lifecycle.",
       ],
       softwareSkills: [
         {
@@ -128,10 +130,14 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Create feature rich applications in Python",
-        "⚡ Use Flask microframew  ork for fast web development",
+        "⚡ Use Flask microframework for fast web development",
         "⚡ Use Werkzeug web application libraries",
         "⚡ Use Jinja web templating engine",
         "⚡ Create HTML5 and JavaScript fronends",
+        "⚡ Used Agile methdologgy to manage project lifecycle.",
+        "⚡ Teamwork - Worked as a part of a team to manage all phases of software development lifecycle.",
+        "⚡ DevOps - deployed application to AWS Docker container.",
+        "⚡ Created secure certificate, DNS URLs, deployed backend to Nginx server.",
       ],
       softwareSkills: [
         {
@@ -186,6 +192,9 @@ const skills = {
       skills: [
         "⚡ Experience hosting applications on AWS",
         "⚡ Using Docker to containerize deployment on AWS",
+        "⚡ Used Agile methdologgy to manage project lifecycle.",
+        "⚡ Teamwork - Worked as a part of a team to manage all phases of software development lifecycle.",
+        "⚡ Created secure certificate, DNS URLs, deployed backend to Nginx server.",
       ],
       softwareSkills: [
         {
@@ -249,7 +258,7 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work, Internship and Volunteership",
+  subtitle: "Work, Internship, and Volunteership",
   description:
     "Currently interning at a software company, gaining hands-on experience in coding, testing, and troubleshooting software applications. Demonstrated ability to work independently and collaboratively in fast-paced environments. Eager to continue learning and growing in the field of technology while contributing to innovative projects.",
   header_image_path: "experience.svg",
@@ -267,6 +276,17 @@ const experience = {
           location: "San Diego, CA, USA",
           description:
             "I am working on creating a time management application as part of the school club.",
+          color: "#0879bf",
+        },
+        {
+          title: "Night of the Museum",
+          company: "Del Norte High School",
+          company_url: "https://delnorte.powayusd.com/",
+          logo_path: "school_logo.png",
+          duration: "Sept 2023 - Present",
+          location: "San Diego, CA, USA",
+          description:
+            "Showcased my work at the night of the museum.",
           color: "#0879bf",
         },
       ],

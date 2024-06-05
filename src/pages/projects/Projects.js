@@ -60,7 +60,7 @@ class Projects extends Component {
                       AI-powered chatbot by following a structured process.
                     </li>
                     <li>
-                      Users rst create an Assistant, representing the entity
+                      Users first create an Assistant, representing the entity
                       that responds to messages.
                     </li>
                     <li>
@@ -68,14 +68,14 @@ class Projects extends Component {
                       per user initiated upon conversation start.
                     </li>
                     <li>
-                      Messages, containing text and optionally les, are added to
+                      Messages, containing text, are added to
                       Threads, providing the input for the Assistant.
                     </li>
                     <li>
                       The Assistant runs asynchronously, processing messages and
                       appending responses to Threads. Users can check the status
                       of runs and retrieve the Assistant's responses to display
-                      in the frontend UI.
+                      in the frontend UI. In teh chatbot this is done automatically for the user.
                     </li>
                     <li>
                       The backend of the Chat API Assistant is built using a
